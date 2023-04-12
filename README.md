@@ -7,7 +7,7 @@ This program reads text input from standard input using fgets(). It then convert
 ## Usage
 To compile and run the program:
 
-gcc -Wall -std=c99 -pedantic morse_converter.c
-./a.out
+`$ gcc -Wall -std=c99 -pedantic morse_converter.c`
+`$ ./a.out`
 
 This will compile the program and run it. When prompted, enter the text you want to convert to Morse code. The program will then print the Morse code output to the terminal.
